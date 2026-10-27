@@ -1,0 +1,19 @@
+LRS Logistics Group — Simple & Clean Photo Edition
+
+The black-and-gold site layout, words, original logo, carrier/career forms, FAQs, How It Works, and editing toolbar remain the same. Only photos/backgrounds were changed.
+
+This version uses a variety of images, including your three supplied reference photos. Image files are in assets/ and are replaceable in styles.css.
+
+HOW TO VIEW: Extract the ZIP and open index.html in your browser. For reliable form submission testing, publish to a host and verify the Formspree endpoint is yours.
+HOW TO EDIT WORDS: Use the Edit Text toolbar. Browser edits save in local storage, not inside HTML/ZIP. For permanent multi-device changes, edit the HTML directly and re-publish or connect a content editor.
+
+PHOTO LOCATIONS:
+hero-clean.jpg — main home banner
+fleet-clean.jpg — About section (your truck-lineup photo)
+services-clean.jpg — Services section (your sunset roadway photo)
+carrier-clean.jpg — Carriers section
+careers-clean.jpg — Careers background (your twilight trailer lineup photo)
+owner-clean.jpg — owner section behind the company logo, no personal photo
+contact-clean.jpg — contact section
+page-clean.jpg — secondary page banner
+form-clean.jpg — interior forms background

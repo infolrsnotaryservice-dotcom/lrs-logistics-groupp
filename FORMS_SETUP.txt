@@ -1,0 +1,2 @@
+LRS LOGISTICS GROUP — FORMS
+All existing career, carrier, and contact forms point to https://formspree.io/f/meaolnvj. Confirm this endpoint is active in your Formspree account and that the receiving email is verified. Make a test submission from the published website for each form to ensure inbox delivery and thank-you redirect. All inquiries use the same Formspree form; inquiry_type or form fields distinguish the sources.

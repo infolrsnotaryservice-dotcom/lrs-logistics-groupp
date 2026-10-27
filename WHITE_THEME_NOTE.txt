@@ -1,0 +1,1 @@
+This is a white-background preview of your existing LRS Logistics Group website. Your original black version is unchanged. Open index.html to view the preview. All pages and the text editor remain included. Changes made with the built-in editor save locally in that browser, not into the HTML files. Please test all forms before publishing.

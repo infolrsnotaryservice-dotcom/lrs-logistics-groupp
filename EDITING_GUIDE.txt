@@ -1,0 +1,13 @@
+LRS LOGISTICS GROUP — HOW TO EDIT YOUR SITE
+
+1. Extract the ZIP, then open index.html in a browser to see the website.
+2. Use the EDIT WEBSITE bar along the bottom: select Edit text, click a heading, paragraph, or FAQ question, and type. Press Save changes.
+3. Browser editor changes live in that browser's local storage. They do NOT modify the actual HTML files or carry over automatically to a new device or a published website. To make your changes permanent for publication, use a text editor to update the HTML files and upload the revised site.
+4. Replace images by changing the files in assets/ (or edit styles.css references). Site background images include highway.png, black-truck.png and fleet.png.
+5. For a true online editor that publishes changes directly to your live website, you will need to connect a CMS or website editor separately.
+6. The existing Formspree form action is retained from the earlier website. It has not been verified. Test your career, carrier, and contact forms and their thank-you pages before publishing; ensure the Formspree endpoint belongs to you.
+7. This website uses generated, photorealistic-looking trucking images (not documentary photos of specific real trucks or locations).
+
+Updated: Meet the Owner intro, Honoring the Legacy of Leon R. Stewart, refreshed images, How It Works and FAQs.
+
+Updated with multiple more realistic trucking photos and reduced dramatic lighting effects. Text editor remains enabled.
